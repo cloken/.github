@@ -7,7 +7,7 @@
   <h2>👋 Hey there! We're Cloken</h2>
 </div>
 
-<p align="center">Time tracking system focused on small businesses. Avoid distractions and stay focused at work.</p>
+<p align="center">We wish create a better, user-owned, decentralized internet.</p>
 
 <div align="center">
   <a href="https://cloken.com/about">About</a>
